@@ -28,8 +28,8 @@ This project demonstrates an Augmented Generation (AG) Application that combines
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone git@github.com:mrizwanakram/RAG-Application-using-Langchain-Mistral-AI-and-Weviate-db.git
+   cd RAG-Application-using-Langchain-Mistral-AI-and-Weviate-db
    ```
 
 2. **Install Dependencies**:
